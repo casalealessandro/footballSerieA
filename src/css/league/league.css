@@ -1,0 +1,14 @@
+.league {
+    
+    margin-bottom: 10px;
+    padding:12px;
+}
+
+.col {
+    width: 30%;
+    float: left;
+}
+
+.col p {
+    color: #CCC;
+}

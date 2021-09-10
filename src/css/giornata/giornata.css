@@ -1,0 +1,30 @@
+.table-tesult{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  
+  
+  
+  
+  .table-tesult tr{
+    border-bottom: 1px solid #dedede;
+    line-height: 2.3em;
+  }
+  
+  .table-tesult tr:last-child{
+    border: none;
+  }
+  
+  
+  
+  .table-tesult .team-name{
+    width: 40%;
+    text-align: left;
+    display: flex;
+    align-items: center;
+  }
+  .table-tesult .team-vs{
+    width: 20%;
+  } 
